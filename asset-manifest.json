@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cov-dashboard/static/css/main.9667a465.css",
+    "main.js": "/cov-dashboard/static/js/main.3e1ac610.js",
+    "static/js/787.69d26829.chunk.js": "/cov-dashboard/static/js/787.69d26829.chunk.js",
+    "index.html": "/cov-dashboard/index.html",
+    "main.9667a465.css.map": "/cov-dashboard/static/css/main.9667a465.css.map",
+    "main.3e1ac610.js.map": "/cov-dashboard/static/js/main.3e1ac610.js.map",
+    "787.69d26829.chunk.js.map": "/cov-dashboard/static/js/787.69d26829.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9667a465.css",
+    "static/js/main.3e1ac610.js"
+  ]
+}
